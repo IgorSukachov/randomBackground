@@ -1,0 +1,20 @@
+.header-bg {
+    position: relative;
+    margin: 30px;
+    color: white;
+}
+
+.square-bg {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 40px;
+    background: blue;
+    z-index: -1;
+}
+
+h2 {
+    display: inline-block;
+    margin: 0;
+}
